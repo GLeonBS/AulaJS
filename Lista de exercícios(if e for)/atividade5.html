@@ -1,0 +1,57 @@
+<!--Uma faculdade oferece um curso que prepara os candidatados a obter licença estadual
+para corretor de imóveis. No ano passado, dez alunos que concluíram esse curso
+prestaram o exame. A universidade quer saber como foi o desempenho dos seus alunos
+que concluíram esse curso prestaram o exame. Você foi contratado para escrever de
+programa que resuma os resultados. Para tanto, você recebeu uma lista desses 10
+alunos. Ao lado de cada nome é escrito 1 se o aluno, passou no exame ou 2 se o aluno
+foi reprovado.
+Desenvolva uma aplicação em JavaScript que:
+a) Insira a cada resultado do exame (isto é, um 1 ou um 2). Exiba a mensagem
+“Inserir resultado” na tela toda vez que o programa solicitar o resultado do outro
+exame.
+b) Conte o número de cada tipo de resultado.
+c) Exiba um resumo dos resultados do exame indicando o número de alunos
+aprovados e reprovados.
+d) Se mais de oito estudantes forem aprovados no exame, imprima a mensagem
+“Bonus to Instructor!”-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Ex5</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<script>
+		var aprovados = 0;
+		var reprovados = 0;
+		var naoIdentificado = 0;
+
+		for (i = 1; i <= 10; i++)
+		{
+			var exame = prompt("Digite o resultado do exame " + i);
+			if (exame == 1)
+			{
+				aprovados++
+			}
+			else if (exame == 2)
+			{
+				reprovados++
+			}else{
+				alert("resultado não aceito");
+				naoIdentificado++
+			}
+		}
+
+		alert("Alunos aprovados: " + aprovados  + "\nAlunos reprovados: " + reprovados);
+		
+		if(naoIdentificado > 0){
+			alert("Resultados não identificados:" + naoIdentificado)
+		}
+
+		if (aprovados >= 8)
+		{
+			alert("Bonus to Instructor!")
+		}
+	</script>
+</body>
+</html>
