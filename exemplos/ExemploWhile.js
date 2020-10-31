@@ -4,3 +4,5 @@ while(i<=10){
     console.log(text);
     i++
 }
+
+//Mais um Easter  egg
