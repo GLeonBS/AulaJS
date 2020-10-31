@@ -1,0 +1,65 @@
+[33mcommit 631a458f0d098857b4c1d56538dd33552cad1e90[m[33m ([m[1;36mHEAD -> [m[1;32mexercjs2[m[33m)[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Fri Oct 30 22:07:25 2020 -0300
+
+    Arquivo para teste de branch
+
+[33mcommit 9544ecd712c16964f08c8b5d8a537d37f1cfc5d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/exercjs2[m[33m, [m[1;32mmain[m[33m)[m
+Author: GLeonBS <64877866+GLeonBS@users.noreply.github.com>
+Date:   Fri Oct 30 21:27:32 2020 -0300
+
+    Deletando arquivo para correção
+    
+    Correção de branch
+
+[33mcommit b82651b985218fe538d3ecd6258b7c009226ae99[m
+Merge: 9c4361e bebfe25
+Author: GLeonBS <64877866+GLeonBS@users.noreply.github.com>
+Date:   Fri Oct 30 14:12:19 2020 -0300
+
+    Merge pull request #1 from GLeonBS/primeiroBranch
+    
+    Primeiro branch
+
+[33mcommit bebfe2530f835739202cd5b0b2ad2c85937ff9f0[m
+Author: GLeonBS <64877866+GLeonBS@users.noreply.github.com>
+Date:   Fri Oct 30 13:48:52 2020 -0300
+
+    Delete Branch.js
+
+[33mcommit b03c8b4d7d6d2379f357a7fccc115765634e70c7[m
+Merge: b83a950 9c4361e
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 15:13:31 2020 -0300
+
+    Merge branch 'main' into primeiroBranch
+
+[33mcommit b83a9503f337ea7d5661ab0648ab1c9b3a22010d[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 15:11:24 2020 -0300
+
+    Primeiro branch
+
+[33mcommit 9c4361e3b27f1455d6c07b826c909ca48770091e[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 15:02:24 2020 -0300
+
+    Primeiro Branch
+
+[33mcommit 0eda11baf1bd5571d06d13b71905c39d2ffb60b3[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 14:25:11 2020 -0300
+
+    Arquivos de exercícios de JS
+
+[33mcommit 4ba72d1b3970e941d21e212d324d155c1f3519a2[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 13:53:58 2020 -0300
+
+    Arquivos de exercícios de Function em JavaScript.
+
+[33mcommit 9bdf9b12612d9718e55e7c5395c42a0cb5c6bde4[m
+Author: Leon <gabriel.leonbs@gmail.com>
+Date:   Thu Oct 29 13:49:58 2020 -0300
+
+    first commit
